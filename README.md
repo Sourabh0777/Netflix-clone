@@ -1,4 +1,9 @@
-# Getting Started with Create React App and Redux
+The stack that is being used: React (custom hooks, context, portals), Firebase (Firestore/auth), Compound & Styled components!
+Used TMDB API which you can pull most popular movies, top rated shows, what's trending, collections, lists and muuuch more. Really worth checking the effort made.
+First use the Firebase App api key of your's as the project's api keys has been removed and you can add them in /lib/firebase.prod.js file and tmdb api key also needs to be changed, which is present in request.js file under the project directory.
+
+![image](https://user-images.githubusercontent.com/46265339/215691616-6f2226e5-320e-4d69-9875-a6d67ae55c51.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
