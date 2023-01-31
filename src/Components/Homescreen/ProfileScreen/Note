@@ -1,0 +1,9 @@
+      // const q1 = query(productDoc, where("prices"));
+      // const priceSnap = await getDocs(q1);
+
+      // priceSnap.forEach(async (price) => {
+      //   products[productDoc.id].prices = {
+      //     priceID: price.id,
+      //     priceData: price.data,
+      //   };
+      // });
